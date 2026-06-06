@@ -12,12 +12,12 @@
 
 ## 👨‍💻 Sobre mim
 
-SRE Sênior com **10+ anos** atuando com infraestrutura de TI e **5 anos** em ambientes críticos de alta disponibilidade.  
-Atualmente na **Gauge**, atuando em infraestrutura global com foco em confiabilidade e escalabilidade.
+SRE Sênior com **10+ anos** em ambientes críticos de alta disponibilidade.  
+Atualmente na **Pearson** (via Gauge), atuando em infraestrutura global com foco em confiabilidade e escalabilidade.
 
 Experiência anterior na **B3 – Brasil, Bolsa, Balcão**, operando e evoluindo ambientes multi-cloud em um dos sistemas financeiros mais críticos do país.
 
-> *"Keep it simple. Complex systems fail in complex ways."*
+> *"The best system is the one nobody has to fix at 3am."*
 
 ---
 
@@ -55,6 +55,41 @@ Experiência anterior na **B3 – Brasil, Bolsa, Balcão**, operando e evoluindo
 
 [![GitHub followers](https://img.shields.io/github/followers/chicoferrari?style=for-the-badge&logo=github&logoColor=white&color=2c5364&labelColor=0d1117)](https://github.com/chicoferrari?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/chicoferrari?style=for-the-badge&logo=github&logoColor=white&color=2c5364&labelColor=0d1117)](https://github.com/chicoferrari)
+
+</div>
+
+---
+
+## 🎓 Formação
+
+- **Tecnologia em Redes de Computadores** — Fatec Osasco (2016–2019)
+- **Tecnologia em Comércio Exterior** — Fatec Barueri (2010–2015)
+
+---
+
+## 📝 Publicações
+
+- **Estudo do uso da metodologia DevOps em projetos de redes para automação residencial**  
+  TCC — FATEC Osasco, dez/2019
+
+- **Estudo do uso da metodologia DevOps em projetos de IoT**  
+  XIX CONIC — Congresso Nacional de Iniciação Científica, nov/2019
+
+- **Execução de um projeto de IoT utilizando metodologia DevOps**  
+  XV Encontro de Iniciação Científica — UNINOVE, nov/2018
+
+---
+
+## 📜 Certificações
+
+<div align="center">
+
+![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Authentication%20%26%20Authorization-003366?style=for-the-badge&logo=linux&logoColor=white)
+![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Introduction%20to%20GitOps-003366?style=for-the-badge&logo=linux&logoColor=white)
+![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-Introduction%20to%20Kubernetes-003366?style=for-the-badge&logo=linux&logoColor=white)
+![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-DevOps%20%26%20SRE-003366?style=for-the-badge&logo=linux&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
