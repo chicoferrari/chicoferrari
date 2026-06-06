@@ -1,6 +1,6 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rafael%20Ferrari&fontSize=52&fontColor=e0f2f1&fontAlignY=38&desc=Senior%20SRE%20Engineer&descAlignY=58&descColor=80cbc4&animation=fadeIn)](https://github.com/chicoferrari)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rafael%20S.%20Ferrari&fontSize=52&fontColor=e0f2f1&fontAlignY=38&desc=Senior%20SRE%20Engineer&descAlignY=58&descColor=80cbc4&animation=fadeIn)](https://github.com/chicoferrari)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chicoferrari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chicoferrari/)
 [![GitHub](https://img.shields.io/badge/GitHub-chicoferrari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chicoferrari)
@@ -12,12 +12,12 @@
 
 ## 👨‍💻 Sobre mim
 
-SRE Sênior com **10+ anos** em ambientes críticos de alta disponibilidade.  
-Atualmente na **Pearson** (via Gauge), atuando em infraestrutura global com foco em confiabilidade e escalabilidade.
+SRE Sênior com **10+ anos** atuando com infraestrutura de TI e **5 anos** em ambientes críticos de alta disponibilidade.  
+Atualmente na **Gauge**, atuando em infraestrutura global com foco em confiabilidade e escalabilidade.
 
 Experiência anterior na **B3 – Brasil, Bolsa, Balcão**, operando e evoluindo ambientes multi-cloud em um dos sistemas financeiros mais críticos do país.
 
-> *"Reliability is not a feature — it's the foundation."*
+> *"Keep it simple. Complex systems fail in complex ways."*
 
 ---
 
@@ -36,9 +36,9 @@ Experiência anterior na **B3 – Brasil, Bolsa, Balcão**, operando e evoluindo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Observabilidade**  
-![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **CI/CD & IaC**  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
