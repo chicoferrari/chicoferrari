@@ -53,8 +53,8 @@ Experiência anterior na **B3 – Brasil, Bolsa, Balcão**, operando e evoluindo
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=chicoferrari&show_icons=true&theme=dark&bg_color=0d1117&border_color=2c5364&title_color=80cbc4&icon_color=4db6ac&text_color=e0f2f1&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicoferrari&layout=compact&theme=dark&bg_color=0d1117&border_color=2c5364&title_color=80cbc4&text_color=e0f2f1&hide_border=false" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chicoferrari&show_icons=true&theme=dark&bg_color=0d1117&border_color=2c5364&title_color=80cbc4&icon_color=4db6ac&text_color=e0f2f1&count_private=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chicoferrari&layout=compact&theme=dark&bg_color=0d1117&border_color=2c5364&title_color=80cbc4&text_color=e0f2f1" />
 
 </div>
 
